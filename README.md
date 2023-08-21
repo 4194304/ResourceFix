@@ -1,3 +1,11 @@
+<h1>Important Compatibility Request Information</h1>
+<p>If there's a resource pack that doesn't work properly with ResourceFix, try to load it under ResourceFix, or try using one of the existing patches with this.</p>
+<h2>If that doesn't work</h2>
+<ol>
+  <li>Open a bug report and choose the "ResourceFix Compatibility Request" option.</li>
+  <li>Follow the request template.</li>
+  <li>I will get to you as soon as possible with a working solution.</li>
+</ol>
 <h1>Have you ever wanted to run your favorite resource pack on 1.12.2 or below?</h1>
 <p>Probably, and the results are that it doesn't work. However, recently I forced myself into making a resource pack that remaps block models for you, so you can run your favorite resource packs on 1.12.2 or below without many issues</p>
 <h2>Is this perfect and does it work?</h2>
